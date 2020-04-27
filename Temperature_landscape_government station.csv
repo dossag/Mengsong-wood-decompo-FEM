@@ -1,0 +1,676 @@
+SN,Station,Date,SEASON,Temp_Max,Temp_Min,Temp_Avg
+1,Mengsong,1-Jun-12,WET,26.6,18.1,21.54
+2,Mengsong,2-Jun-12,WET,24.1,17.5,20.21
+3,Mengsong,3-Jun-12,WET,25.6,17.9,20.99
+4,Mengsong,4-Jun-12,WET,26.7,18.8,21.64
+5,Mengsong,5-Jun-12,WET,27.7,17.4,21.03
+6,Mengsong,6-Jun-12,WET,28.1,17.9,21.98
+7,Mengsong,7-Jun-12,WET,25.9,17.9,21.43
+8,Mengsong,8-Jun-12,WET,27.5,18.5,20.85
+9,Mengsong,9-Jun-12,WET,25.8,18.8,20.69
+10,Mengsong,10-Jun-12,WET,24.7,18.2,20.52
+11,Mengsong,11-Jun-12,WET,24.9,18.7,21.09
+12,Mengsong,12-Jun-12,WET,25.3,19.7,21.67
+13,Mengsong,13-Jun-12,WET,24.5,19.3,21.02
+14,Mengsong,14-Jun-12,WET,25.5,19,21.15
+15,Mengsong,15-Jun-12,WET,25.3,18,20.64
+16,Mengsong,16-Jun-12,WET,22.3,17.7,19.34
+17,Mengsong,17-Jun-12,WET,23.2,17.6,19.85
+18,Mengsong,18-Jun-12,WET,26.6,17.9,20.62
+19,Mengsong,19-Jun-12,WET,24.4,18.8,20.82
+20,Mengsong,20-Jun-12,WET,25.2,18.4,20.63
+21,Mengsong,21-Jun-12,WET,22.9,18.3,20.12
+22,Mengsong,22-Jun-12,WET,23.4,18.4,20.27
+23,Mengsong,23-Jun-12,WET,21.7,18.6,19.63
+24,Mengsong,24-Jun-12,WET,23.2,17.8,19.35
+25,Mengsong,25-Jun-12,WET,22.3,17.9,19.82
+26,Mengsong,26-Jun-12,WET,21.3,18.3,19.23
+27,Mengsong,27-Jun-12,WET,25.2,18.1,20.19
+28,Mengsong,28-Jun-12,WET,25.7,18.1,20.78
+29,Mengsong,29-Jun-12,WET,25.9,18,20.68
+30,Mengsong,30-Jun-12,WET,24.9,17.3,20.58
+31,Mengsong,1-Jul-12,WET,23.3,17.8,19.44
+32,Mengsong,2-Jul-12,WET,24.9,17.4,19.81
+33,Mengsong,3-Jul-12,WET,24.9,18.1,20.12
+34,Mengsong,4-Jul-12,WET,25.8,18.3,21.03
+35,Mengsong,5-Jul-12,WET,24.9,17.6,20.45
+36,Mengsong,6-Jul-12,WET,27.4,17.7,20.82
+37,Mengsong,7-Jul-12,WET,28.4,17.6,21.66
+38,Mengsong,8-Jul-12,WET,25.6,18.3,20.53
+39,Mengsong,9-Jul-12,WET,25.4,17.7,20.2
+40,Mengsong,10-Jul-12,WET,27.3,18.2,21.22
+41,Mengsong,11-Jul-12,WET,26.6,19.1,21.38
+42,Mengsong,12-Jul-12,WET,25.2,19.2,21.48
+43,Mengsong,13-Jul-12,WET,25.5,19.4,21.17
+44,Mengsong,14-Jul-12,WET,20.1,18,19.09
+45,Mengsong,15-Jul-12,WET,23.8,17.8,19.88
+46,Mengsong,16-Jul-12,WET,21.6,18.3,19.67
+47,Mengsong,17-Jul-12,WET,19,17.6,18.21
+48,Mengsong,18-Jul-12,WET,19.2,17.7,18.31
+49,Mengsong,19-Jul-12,WET,20.9,18,18.67
+50,Mengsong,20-Jul-12,WET,25.2,17.8,20.27
+51,Mengsong,21-Jul-12,WET,25,17.5,20.43
+52,Mengsong,22-Jul-12,WET,21.6,18.1,19.5
+53,Mengsong,23-Jul-12,WET,19.2,18.2,18.52
+54,Mengsong,24-Jul-12,WET,24.7,18,20.47
+55,Mengsong,25-Jul-12,WET,21.9,18.7,19.82
+56,Mengsong,26-Jul-12,WET,18.8,17.2,17.72
+57,Mengsong,27-Jul-12,WET,17.9,16.7,17.31
+58,Mengsong,28-Jul-12,WET,19.7,17.1,17.93
+59,Mengsong,29-Jul-12,WET,24.3,17.6,19.59
+60,Mengsong,30-Jul-12,WET,23.2,17.7,19.78
+61,Mengsong,31-Jul-12,WET,20.7,17.6,18.75
+62,Mengsong,1-Aug-12,WET,23.2,17.8,19.5
+63,Mengsong,2-Aug-12,WET,21.6,17.3,18.7
+64,Mengsong,3-Aug-12,WET,21.7,17.1,18.86
+65,Mengsong,4-Aug-12,WET,26.1,17.4,19.55
+66,Mengsong,5-Aug-12,WET,25.9,17.9,20.68
+67,Mengsong,6-Aug-12,WET,24,18.8,20.42
+68,Mengsong,7-Aug-12,WET,22.6,18.4,19.7
+69,Mengsong,8-Aug-12,WET,24.4,16.7,20.18
+70,Mengsong,9-Aug-12,WET,25.2,18,20.11
+71,Mengsong,10-Aug-12,WET,26.9,16.8,20.63
+72,Mengsong,11-Aug-12,WET,26.4,17.2,20.29
+73,Mengsong,12-Aug-12,WET,26.7,18.4,21.32
+74,Mengsong,13-Aug-12,WET,25.3,18.5,20.52
+75,Mengsong,14-Aug-12,WET,23.1,18.3,19.56
+76,Mengsong,15-Aug-12,WET,22.9,17.8,19.28
+77,Mengsong,16-Aug-12,WET,25.7,17.8,20.36
+78,Mengsong,17-Aug-12,WET,27.6,16.9,21.05
+79,Mengsong,18-Aug-12,WET,20.4,17.2,18.88
+80,Mengsong,19-Aug-12,WET,19.9,17.4,18.4
+81,Mengsong,20-Aug-12,WET,23,17.3,19.15
+82,Mengsong,21-Aug-12,WET,23.8,16.7,19.72
+83,Mengsong,22-Aug-12,WET,19.8,16.8,18.18
+84,Mengsong,23-Aug-12,WET,24.2,16.9,19.18
+85,Mengsong,24-Aug-12,WET,23.1,16.1,18.98
+86,Mengsong,25-Aug-12,WET,23.6,15.8,18.85
+87,Mengsong,26-Aug-12,WET,26.4,15.9,19.47
+88,Mengsong,27-Aug-12,WET,25.3,16.2,19.64
+89,Mengsong,28-Aug-12,WET,26.3,16.2,20.22
+90,Mengsong,29-Aug-12,WET,26.6,16.8,20.48
+91,Mengsong,30-Aug-12,WET,24.9,17.3,20.5
+92,Mengsong,31-Aug-12,WET,25.4,18.7,20.76
+93,Mengsong,1-Mar-13,DRY,27.3,12,18.82
+94,Mengsong,2-Mar-13,DRY,27.9,12.3,18.54
+95,Mengsong,3-Mar-13,DRY,22.6,12.1,17.09
+96,Mengsong,4-Mar-13,DRY,18,13.4,15.57
+97,Mengsong,5-Mar-13,DRY,18.9,11.7,15.35
+98,Mengsong,6-Mar-13,DRY,23.6,12.1,16.75
+99,Mengsong,7-Mar-13,DRY,21.4,11.8,16.28
+100,Mengsong,8-Mar-13,DRY,20.4,12.3,15.74
+101,Mengsong,9-Mar-13,DRY,22.2,10.2,15.73
+102,Mengsong,10-Mar-13,DRY,24,11.8,16.6
+103,Mengsong,11-Mar-13,DRY,24.8,9.6,16.09
+104,Mengsong,12-Mar-13,DRY,23.9,11.2,16.43
+105,Mengsong,13-Mar-13,DRY,23.3,10.4,15.88
+106,Mengsong,14-Mar-13,DRY,25.4,10.5,17.12
+107,Mengsong,15-Mar-13,DRY,24.8,12.3,18.38
+108,Mengsong,16-Mar-13,DRY,25.5,14.3,19.15
+109,Mengsong,17-Mar-13,DRY,26.3,13.4,19.13
+110,Mengsong,18-Mar-13,DRY,27.2,13.8,19.42
+111,Mengsong,19-Mar-13,DRY,25.4,14.6,19.8
+112,Mengsong,20-Mar-13,DRY,24.9,10.9,16.81
+113,Mengsong,21-Mar-13,DRY,26,9.1,16.58
+114,Mengsong,22-Mar-13,DRY,25.8,11.3,17.53
+115,Mengsong,23-Mar-13,DRY,24.8,12.8,17.97
+116,Mengsong,24-Mar-13,DRY,26.3,13.1,18.53
+117,Mengsong,25-Mar-13,DRY,26.8,13.4,19.42
+118,Mengsong,26-Mar-13,DRY,27.3,12.4,18.52
+119,Mengsong,27-Mar-13,DRY,27.6,12.8,19.83
+120,Mengsong,28-Mar-13,DRY,28.8,14.3,20.44
+121,Mengsong,29-Mar-13,DRY,28.2,12.9,20.16
+122,Mengsong,30-Mar-13,DRY,27.8,15.1,19.9
+123,Mengsong,31-Mar-13,DRY,27.5,14.6,19.72
+124,Mengsong,1-Apr-13,DRY,26.6,14.4,19.23
+125,Mengsong,2-Apr-13,DRY,28.1,13.2,19.78
+126,Mengsong,3-Apr-13,DRY,27.5,14.1,20.1
+127,Mengsong,4-Apr-13,DRY,27.3,14.4,20.64
+128,Mengsong,5-Apr-13,DRY,26.9,16.3,20.99
+129,Mengsong,6-Apr-13,DRY,27.1,13.6,19.39
+130,Mengsong,7-Apr-13,DRY,28.2,13.3,19.76
+131,Mengsong,8-Apr-13,DRY,28.2,13.5,19.66
+132,Mengsong,9-Apr-13,DRY,28.3,14.1,20.43
+133,Mengsong,10-Apr-13,DRY,27.9,15.4,20.98
+134,Mengsong,11-Apr-13,DRY,27.1,18.2,21.83
+135,Mengsong,12-Apr-13,DRY,28.9,18.1,22.12
+136,Mengsong,13-Apr-13,DRY,27.8,17.5,21.21
+137,Mengsong,14-Apr-13,DRY,26.2,16.8,20.38
+138,Mengsong,15-Apr-13,DRY,28.2,15.1,21.39
+139,Mengsong,16-Apr-13,DRY,25.6,14.7,19.36
+140,Mengsong,17-Apr-13,DRY,25.7,13.2,18.85
+141,Mengsong,18-Apr-13,DRY,27.2,14.5,19.49
+142,Mengsong,19-Apr-13,DRY,27.7,15.2,20.37
+143,Mengsong,20-Apr-13,DRY,29.2,14.7,20.61
+144,Mengsong,21-Apr-13,DRY,29,15.4,21.72
+145,Mengsong,22-Apr-13,DRY,26.4,14.8,21
+146,Mengsong,23-Apr-13,DRY,27.9,15.4,20.9
+147,Mengsong,24-Apr-13,DRY,26.2,14.9,20.44
+148,Mengsong,25-Apr-13,DRY,28.1,17.4,21.61
+149,Mengsong,26-Apr-13,DRY,26.3,15.7,20.3
+150,Mengsong,27-Apr-13,DRY,27.8,15.4,21.04
+151,Mengsong,28-Apr-13,DRY,27.5,15.3,20.04
+152,Mengsong,29-Apr-13,DRY,26.4,15.3,20.37
+153,Mengsong,30-Apr-13,DRY,28.2,15.3,21.81
+154,Mature forest,1-Jun-12,WET,21.628,17.391,19.125
+155,Mature forest,2-Jun-12,WET,19.984,16.749,18.575
+156,Mature forest,3-Jun-12,WET,21.795,17.677,19.206
+157,Mature forest,4-Jun-12,WET,22.585,18.438,19.993
+158,Mature forest,5-Jun-12,WET,22.848,16.439,20.158
+159,Mature forest,6-Jun-12,WET,23.112,19.555,20.814
+160,Mature forest,7-Jun-12,WET,22.034,19.341,20.489
+161,Mature forest,8-Jun-12,WET,22.178,17.938,19.406
+162,Mature forest,9-Jun-12,WET,20.936,17.986,18.851
+163,Mature forest,10-Jun-12,WET,21.461,17.249,18.643
+164,Mature forest,11-Jun-12,WET,22.345,17.772,19.521
+165,Mature forest,12-Jun-12,WET,22.082,18.913,20.046
+166,Mature forest,13-Jun-12,WET,21.772,18.295,19.43
+167,Mature forest,14-Jun-12,WET,22.034,18.129,19.56
+168,Mature forest,15-Jun-12,WET,22.465,16.963,19.156
+169,Mature forest,16-Jun-12,WET,19.294,17.415,18.01
+170,Mature forest,17-Jun-12,WET,19.651,17.534,18.254
+171,Mature forest,18-Jun-12,WET,22.393,17.653,18.949
+172,Mature forest,19-Jun-12,WET,21.461,17.724,19.131
+173,Mature forest,20-Jun-12,WET,21.366,17.605,18.754
+174,Mature forest,21-Jun-12,WET,20.365,17.296,18.526
+175,Mature forest,22-Jun-12,WET,20.817,17.368,18.678
+176,Mature forest,23-Jun-12,WET,19.555,17.486,18.295
+177,Mature forest,24-Jun-12,WET,19.96,16.82,17.87
+178,Mature forest,25-Jun-12,WET,19.579,17.177,18.321
+179,Mature forest,26-Jun-12,WET,18.937,17.463,18.032
+180,Mature forest,27-Jun-12,WET,20.984,17.391,18.728
+181,Mature forest,28-Jun-12,WET,20.96,17.153,18.602
+182,Mature forest,29-Jun-12,WET,21.008,16.963,18.543
+183,Mature forest,30-Jun-12,WET,21.246,17.368,19.052
+184,Mature forest,1-Jul-12,WET,19.579,16.82,18.393
+185,Mature forest,2-Jul-12,WET,21.032,17.082,18.328
+186,Mature forest,3-Jul-12,WET,20.531,17.082,18.451
+187,Mature forest,4-Jul-12,WET,22.513,17.962,19.528
+188,Mature forest,5-Jul-12,WET,21.342,17.058,18.982
+189,Mature forest,6-Jul-12,WET,20.984,17.153,18.627
+190,Mature forest,7-Jul-12,WET,22.729,17.653,19.395
+191,Mature forest,8-Jul-12,WET,20.65,17.415,18.616
+192,Mature forest,9-Jul-12,WET,20.15,17.058,18.207
+193,Mature forest,10-Jul-12,WET,22.011,17.51,19.168
+194,Mature forest,11-Jul-12,WET,23.448,18.461,19.859
+195,Mature forest,12-Jul-12,WET,21.127,18.343,19.603
+196,Mature forest,13-Jul-12,WET,21.676,18.794,19.684
+197,Mature forest,14-Jul-12,WET,19.413,17.32,18.128
+198,Mature forest,15-Jul-12,WET,20.198,17.463,18.463
+199,Mature forest,16-Jul-12,WET,19.127,17.558,18.139
+200,Mature forest,17-Jul-12,WET,17.653,16.677,17.135
+201,Mature forest,18-Jul-12,WET,17.701,16.868,17.268
+202,Mature forest,19-Jul-12,WET,17.915,16.963,17.369
+203,Mature forest,20-Jul-12,WET,19.912,16.987,18.081
+204,Mature forest,21-Jul-12,WET,21.628,17.249,18.889
+205,Mature forest,22-Jul-12,WET,19.436,17.439,18.418
+206,Mature forest,23-Jul-12,WET,18.675,16.987,17.491
+207,Mature forest,24-Jul-12,WET,20.96,17.368,18.656
+208,Mature forest,25-Jul-12,WET,19.579,17.629,18.407
+209,Mature forest,26-Jul-12,WET,17.772,16.225,16.813
+210,Mature forest,27-Jul-12,WET,16.701,15.724,16.236
+211,Mature forest,28-Jul-12,WET,17.225,16.272,16.726
+212,Mature forest,29-Jul-12,WET,20.603,16.844,18.056
+213,Mature forest,30-Jul-12,WET,20.793,17.153,18.537
+214,Mature forest,31-Jul-12,WET,18.723,16.582,17.601
+215,Mature forest,1-Aug-12,WET,20.841,17.177,18.131
+216,Mature forest,2-Aug-12,WET,18.675,16.725,17.479
+217,Mature forest,3-Aug-12,WET,19.103,16.915,17.528
+218,Mature forest,4-Aug-12,WET,20.579,16.939,17.98
+219,Mature forest,5-Aug-12,WET,22.058,17.32,19.065
+220,Mature forest,6-Aug-12,WET,20.889,18.319,19.127
+221,Mature forest,7-Aug-12,WET,20.46,17.249,18.536
+222,Mature forest,8-Aug-12,WET,20.865,16.344,18.227
+223,Mature forest,9-Aug-12,WET,20.507,17.677,18.54
+224,Mature forest,10-Aug-12,WET,20.674,16.106,18.654
+225,Mature forest,11-Aug-12,WET,21.557,17.772,18.866
+226,Mature forest,12-Aug-12,WET,23.016,17.986,19.645
+227,Mature forest,13-Aug-12,WET,21.843,17.701,19.281
+228,Mature forest,14-Aug-12,WET,19.294,17.058,18.237
+229,Mature forest,15-Aug-12,WET,19.246,17.439,17.98
+230,Mature forest,16-Aug-12,WET,20.412,16.511,18.356
+231,Mature forest,17-Aug-12,WET,21.939,17.724,19.361
+232,Mature forest,18-Aug-12,WET,20.15,15.557,17.829
+233,Mature forest,19-Aug-12,WET,17.867,16.701,17.167
+234,Mature forest,20-Aug-12,WET,18.675,16.463,17.404
+235,Mature forest,21-Aug-12,WET,20.65,16.487,18.438
+236,Mature forest,22-Aug-12,WET,18.628,16.701,17.822
+237,Mature forest,23-Aug-12,WET,20.341,16.963,18.035
+238,Mature forest,24-Aug-12,WET,19.555,16.487,17.733
+239,Mature forest,25-Aug-12,WET,20.293,16.677,17.934
+240,Mature forest,26-Aug-12,WET,21.27,17.249,18.793
+241,Mature forest,27-Aug-12,WET,22.106,17.653,19.027
+242,Mature forest,28-Aug-12,WET,21.891,17.51,19.307
+243,Mature forest,29-Aug-12,WET,22.585,18.604,19.852
+244,Mature forest,30-Aug-12,WET,20.746,18.105,19.279
+245,Mature forest,31-Aug-12,WET,21.079,17.748,19.023
+246,Mature forest,1-Feb-13,DRY,17.296,10.59,13.407
+247,Mature forest,2-Feb-13,DRY,16.868,11.759,13.551
+248,Mature forest,3-Feb-13,DRY,16.558,11.929,13.472
+249,Mature forest,4-Feb-13,DRY,18.485,12.727,15.171
+250,Mature forest,5-Feb-13,DRY,19.746,12.727,15.871
+251,Mature forest,6-Feb-13,DRY,21.127,14.768,17.235
+252,Mature forest,7-Feb-13,DRY,21.867,16.296,18.424
+253,Mature forest,8-Feb-13,DRY,22.274,15.772,18.246
+254,Mature forest,9-Feb-13,DRY,21.461,16.201,18.22
+255,Mature forest,10-Feb-13,DRY,20.865,15.652,17.76
+256,Mature forest,11-Feb-13,DRY,21.772,16.034,18.399
+257,Mature forest,12-Feb-13,DRY,22.298,16.034,18.442
+258,Mature forest,13-Feb-13,DRY,21.246,16.534,18.149
+259,Mature forest,14-Feb-13,DRY,20.627,12.34,17.159
+260,Mature forest,15-Feb-13,DRY,21.963,16.82,18.654
+261,Mature forest,16-Feb-13,DRY,22.729,17.177,19.29
+262,Mature forest,17-Feb-13,DRY,21.867,17.011,19.023
+263,Mature forest,18-Feb-13,DRY,20.936,16.415,18.215
+264,Mature forest,19-Feb-13,DRY,21.175,14.553,17.508
+265,Mature forest,20-Feb-13,DRY,22.154,16.368,18.559
+266,Mature forest,21-Feb-13,DRY,21.127,15.414,17.821
+267,Mature forest,22-Feb-13,DRY,20.055,15.366,16.784
+268,Mature forest,23-Feb-13,DRY,16.63,13.978,14.932
+269,Mature forest,24-Feb-13,DRY,20.531,13.329,16.271
+270,Mature forest,25-Feb-13,DRY,21.103,15.39,18.013
+271,Mature forest,26-Feb-13,DRY,22.202,16.463,18.989
+272,Mature forest,27-Feb-13,DRY,23.088,17.201,19.629
+273,Mature forest,28-Feb-13,DRY,23.304,17.058,20.023
+274,Mature forest,1-Mar-13,DRY,24.412,17.582,20.831
+275,Mature forest,2-Mar-13,DRY,24.412,18.675,20.905
+276,Mature forest,3-Mar-13,DRY,20.579,15.485,18.86
+277,Mature forest,4-Mar-13,DRY,15.533,13.401,14.304
+278,Mature forest,5-Mar-13,DRY,16.177,12.243,14.009
+279,Mature forest,6-Mar-13,DRY,18.247,12.799,15.11
+280,Mature forest,7-Mar-13,DRY,18.509,14.074,15.901
+281,Mature forest,8-Mar-13,DRY,17.344,11.2,15.202
+282,Mature forest,9-Mar-13,DRY,18.889,10.565,14.711
+283,Mature forest,10-Mar-13,DRY,21.223,15.031,17.004
+284,Mature forest,11-Mar-13,DRY,20.984,15.533,17.359
+285,Mature forest,12-Mar-13,DRY,20.722,12.968,16.803
+286,Mature forest,13-Mar-13,DRY,20.388,14.457,16.757
+287,Mature forest,14-Mar-13,DRY,22.992,15.772,18.354
+288,Mature forest,15-Mar-13,DRY,22.729,17.724,19.489
+289,Mature forest,16-Mar-13,DRY,23.497,17.605,20.293
+290,Mature forest,17-Mar-13,DRY,24.146,17.772,20.587
+291,Mature forest,18-Mar-13,DRY,25.137,18.39,20.21
+292,Mature forest,19-Mar-13,DRY,23.016,16.987,19.452
+293,Mature forest,20-Mar-13,DRY,23.954,14.697,18.107
+294,Mature forest,21-Mar-13,DRY,23.04,15.629,18.676
+295,Mature forest,22-Mar-13,DRY,24.726,16.939,19.221
+296,Mature forest,23-Mar-13,DRY,23.28,17.605,19.358
+297,Mature forest,24-Mar-13,DRY,25.331,16.225,19.562
+298,Mature forest,25-Mar-13,DRY,24.605,17.439,20.352
+299,Mature forest,26-Mar-13,DRY,25.258,18.176,20.701
+300,Mature forest,27-Mar-13,DRY,24.243,19.08,21.436
+301,Mature forest,28-Mar-13,DRY,24.919,19.103,21.668
+302,Mature forest,29-Mar-13,DRY,24.944,19.365,21.917
+303,Mature forest,30-Mar-13,DRY,24.847,19.96,21.492
+304,Mature forest,31-Mar-13,DRY,24.532,19.413,21.081
+305,Mature forest,1-Apr-13,DRY,23.352,19.103,20.682
+306,Mature forest,2-Apr-13,DRY,24.195,18.129,20.806
+307,Mature forest,3-Apr-13,DRY,24.388,18.509,21.384
+308,Mature forest,4-Apr-13,DRY,24.702,19.27,21.916
+309,Mature forest,5-Apr-13,DRY,23.304,19.246,21.237
+310,Mature forest,6-Apr-13,DRY,23.905,17.891,20.692
+311,Mature forest,7-Apr-13,DRY,24.484,18.604,21.369
+312,Mature forest,8-Apr-13,DRY,24.484,18.557,21.231
+313,Mature forest,9-Apr-13,DRY,24.823,18.842,21.288
+314,Mature forest,10-Apr-13,DRY,22.968,15.366,20.272
+315,Mature forest,11-Apr-13,DRY,23.521,19.555,20.846
+316,Mature forest,12-Apr-13,DRY,24.267,18.105,20.816
+317,Mature forest,13-Apr-13,DRY,23.424,18.105,19.951
+318,Mature forest,14-Apr-13,DRY,22.537,17.653,19.618
+319,Mature forest,15-Apr-13,DRY,23.256,13.882,19.35
+320,Mature forest,16-Apr-13,DRY,21.485,13.449,17.702
+321,Mature forest,17-Apr-13,DRY,21.843,16.368,18.893
+322,Mature forest,18-Apr-13,DRY,23.857,17.938,20.19
+323,Mature forest,19-Apr-13,DRY,23.93,18.295,20.813
+324,Mature forest,20-Apr-13,DRY,25.55,18.652,21.616
+325,Mature forest,21-Apr-13,DRY,25.113,20.341,22.126
+326,Mature forest,22-Apr-13,DRY,23.424,16.392,20.637
+327,Mature forest,23-Apr-13,DRY,23.881,15.557,19.912
+328,Mature forest,24-Apr-13,DRY,22.848,17.011,19.7
+329,Mature forest,25-Apr-13,DRY,24.774,17.938,20.516
+330,Mature forest,26-Apr-13,DRY,22.92,15.39,19.276
+331,Mature forest,27-Apr-13,DRY,24.098,18.723,21.09
+332,Mature forest,28-Apr-13,DRY,23.064,14.314,18.726
+333,Mature forest,29-Apr-13,DRY,23.016,15.533,19.641
+334,Mature forest,30-Apr-13,DRY,24.798,17.463,21.206
+335,Open land,1-Jun-12,WET,24.992,17.106,19.946
+336,Open land,2-Jun-12,WET,23.208,16.415,18.954
+337,Open land,3-Jun-12,WET,24.798,17.225,19.864
+338,Open land,4-Jun-12,WET,26.5,18.176,20.644
+339,Open land,5-Jun-12,WET,26.818,16.129,20.331
+340,Open land,6-Jun-12,WET,27.702,17.368,21.302
+341,Open land,7-Jun-12,WET,26.646,17.701,20.735
+342,Open land,8-Jun-12,WET,27.014,17.748,19.899
+343,Open land,9-Jun-12,WET,23.304,17.748,19.123
+344,Open land,10-Jun-12,WET,23.472,17.368,19.013
+345,Open land,11-Jun-12,WET,23.208,17.724,19.647
+346,Open land,12-Jun-12,WET,23.689,18.699,20.249
+347,Open land,13-Jun-12,WET,23.545,17.962,19.552
+348,Open land,14-Jun-12,WET,22.8,17.605,19.693
+349,Open land,15-Jun-12,WET,24.339,16.915,19.263
+350,Open land,16-Jun-12,WET,21.819,16.606,18.345
+351,Open land,17-Jun-12,WET,23.04,16.63,19.214
+352,Open land,18-Jun-12,WET,26.085,17.32,19.675
+353,Open land,19-Jun-12,WET,22.753,17.534,19.328
+354,Open land,20-Jun-12,WET,22.25,17.058,18.901
+355,Open land,21-Jun-12,WET,21.891,17.296,18.643
+356,Open land,22-Jun-12,WET,20.913,17.463,18.614
+357,Open land,23-Jun-12,WET,19.698,17.034,18.148
+358,Open land,24-Jun-12,WET,21.223,16.773,17.83
+359,Open land,25-Jun-12,WET,19.865,16.606,18.095
+360,Open land,26-Jun-12,WET,19.484,17.058,17.771
+361,Open land,27-Jun-12,WET,20.722,17.058,18.246
+362,Open land,28-Jun-12,WET,23.545,17.368,19.322
+363,Open land,29-Jun-12,WET,25.04,16.82,19.138
+364,Open land,30-Jun-12,WET,22.417,16.344,19.166
+365,Open land,1-Jul-12,WET,22.896,16.558,18.644
+366,Open land,2-Jul-12,WET,21.963,16.749,18.562
+367,Open land,3-Jul-12,WET,23.472,17.32,18.768
+368,Open land,4-Jul-12,WET,24.895,17.486,19.714
+369,Open land,5-Jul-12,WET,23.448,16.63,19.373
+370,Open land,6-Jul-12,WET,24.195,16.868,19.292
+371,Open land,7-Jul-12,WET,25.987,16.915,20.172
+372,Open land,8-Jul-12,WET,21.485,17.177,18.893
+373,Open land,9-Jul-12,WET,23.112,16.987,18.741
+374,Open land,10-Jul-12,WET,24.219,17.249,19.466
+375,Open land,11-Jul-12,WET,25.671,18.319,20.215
+376,Open land,12-Jul-12,WET,24.605,18.461,20.731
+377,Open land,13-Jul-12,WET,24.605,18.652,19.992
+378,Open land,14-Jul-12,WET,18.985,17.034,18.066
+379,Open land,15-Jul-12,WET,21.485,17.082,18.867
+380,Open land,16-Jul-12,WET,19.603,17.463,18.446
+381,Open land,17-Jul-12,WET,17.938,16.796,17.299
+382,Open land,18-Jul-12,WET,18.176,16.939,17.371
+383,Open land,19-Jul-12,WET,18.604,17.082,17.571
+384,Open land,20-Jul-12,WET,23.448,17.082,18.862
+385,Open land,21-Jul-12,WET,23.136,16.939,19.081
+386,Open land,22-Jul-12,WET,19.294,17.13,18.071
+387,Open land,23-Jul-12,WET,17.938,17.32,17.509
+388,Open land,24-Jul-12,WET,25.283,17.153,19.541
+389,Open land,25-Jul-12,WET,21.533,17.51,18.866
+390,Open land,26-Jul-12,WET,18.01,16.344,16.912
+391,Open land,27-Jul-12,WET,16.82,15.748,16.357
+392,Open land,28-Jul-12,WET,18.033,16.272,16.86
+393,Open land,29-Jul-12,WET,21.533,16.773,18.08
+394,Open land,30-Jul-12,WET,22.609,16.677,18.393
+395,Open land,31-Jul-12,WET,18.176,16.582,17.498
+396,Open land,1-Aug-12,WET,21.342,17.011,18.189
+397,Open land,2-Aug-12,WET,19.936,16.225,17.691
+398,Open land,3-Aug-12,WET,19.008,16.606,17.714
+399,Open land,4-Aug-12,WET,22.25,16.654,18.071
+400,Open land,5-Aug-12,WET,25.21,16.892,19.345
+401,Open land,6-Aug-12,WET,23.93,17.915,19.271
+402,Open land,7-Aug-12,WET,23.713,16.987,18.77
+403,Open land,8-Aug-12,WET,28.543,15.605,19.433
+404,Open land,9-Aug-12,WET,28.518,17.272,19.444
+405,Open land,10-Aug-12,WET,28.518,16.106,19.471
+406,Open land,11-Aug-12,WET,24.629,16.844,19.175
+407,Open land,12-Aug-12,WET,27.382,17.249,19.858
+408,Open land,13-Aug-12,WET,24.363,17.843,19.527
+409,Open land,14-Aug-12,WET,21.676,17.201,18.552
+410,Open land,15-Aug-12,WET,21.795,16.868,18.389
+411,Open land,16-Aug-12,WET,27.628,16.725,19.514
+412,Open land,17-Aug-12,WET,29.64,16.225,20.059
+413,Open land,18-Aug-12,WET,19.674,15.414,17.848
+414,Open land,19-Aug-12,WET,18.557,16.606,17.435
+415,Open land,20-Aug-12,WET,20.055,16.392,17.677
+416,Open land,21-Aug-12,WET,23.761,15.676,18.699
+417,Open land,22-Aug-12,WET,19.341,15.915,17.626
+418,Open land,23-Aug-12,WET,26.061,16.201,18.683
+419,Open land,24-Aug-12,WET,26.646,15.247,18.256
+420,Open land,25-Aug-12,WET,25.355,15.485,18.34
+421,Open land,26-Aug-12,WET,26.109,15.557,18.771
+422,Open land,27-Aug-12,WET,25.234,15.724,18.969
+423,Open land,28-Aug-12,WET,28.816,15.748,19.386
+424,Open land,29-Aug-12,WET,30.9,16.606,20.02
+425,Open land,30-Aug-12,WET,27.112,17.177,20.137
+426,Open land,31-Aug-12,WET,25.866,18.081,19.671
+427,Open land,1-Feb-13,DRY,25.355,5.154,12.464
+428,Open land,2-Feb-13,DRY,24.968,8.245,12.835
+429,Open land,3-Feb-13,DRY,24.388,9.361,13.612
+430,Open land,4-Feb-13,DRY,25.428,9.04,14.383
+431,Open land,5-Feb-13,DRY,27.136,6.914,13.926
+432,Open land,6-Feb-13,DRY,29.315,7.945,16.356
+433,Open land,7-Feb-13,DRY,29.941,10.858,17.02
+434,Open land,8-Feb-13,DRY,31.459,9.386,16.935
+435,Open land,9-Feb-13,DRY,28.791,10.492,16.658
+436,Open land,10-Feb-13,DRY,27.038,11.419,16.658
+437,Open land,11-Feb-13,DRY,29.389,12.219,17.973
+438,Open land,12-Feb-13,DRY,29.916,11.248,17.909
+439,Open land,13-Feb-13,DRY,27.186,13.473,17.685
+440,Open land,14-Feb-13,DRY,27.579,11.029,17.466
+441,Open land,15-Feb-13,DRY,30.419,12.944,18.511
+442,Open land,16-Feb-13,DRY,29.966,12.847,18.534
+443,Open land,17-Feb-13,DRY,27.801,13.954,18.313
+444,Open land,18-Feb-13,DRY,27.604,12.968,17.908
+445,Open land,19-Feb-13,DRY,29.365,10.271,16.973
+446,Open land,20-Feb-13,DRY,29.941,11.419,17.928
+447,Open land,21-Feb-13,DRY,27.186,12.485,17.517
+448,Open land,22-Feb-13,DRY,28.99,12.606,17.387
+449,Open land,23-Feb-13,DRY,21.939,12.437,15.584
+450,Open land,24-Feb-13,DRY,28.617,10.345,16.777
+451,Open land,25-Feb-13,DRY,27.875,12.025,17.117
+452,Open land,26-Feb-13,DRY,29.464,11.175,17.516
+453,Open land,27-Feb-13,DRY,30.672,11.297,17.546
+454,Open land,28-Feb-13,DRY,29.941,12.847,18.592
+455,Open land,1-Mar-13,DRY,31.51,11.516,18.49
+456,Open land,2-Mar-13,DRY,31.23,11.565,19.282
+457,Open land,3-Mar-13,DRY,27.014,13.786,18.067
+458,Open land,4-Mar-13,DRY,20.341,12.147,14.87
+459,Open land,5-Mar-13,DRY,22.465,10.418,15.025
+460,Open land,6-Mar-13,DRY,25.55,10.614,15.971
+461,Open land,7-Mar-13,DRY,25.355,10.98,16.276
+462,Open land,8-Mar-13,DRY,20.579,10.59,15.248
+463,Open land,9-Mar-13,DRY,26.012,8.817,15.016
+464,Open land,10-Mar-13,DRY,28.221,9.41,16.043
+465,Open land,11-Mar-13,DRY,29.865,10.247,16.535
+466,Open land,12-Mar-13,DRY,29.59,10.443,16.128
+467,Open land,13-Mar-13,DRY,29.19,9.682,16.54
+468,Open land,14-Mar-13,DRY,29.941,9.756,17.35
+469,Open land,15-Mar-13,DRY,29.89,12.025,18.048
+470,Open land,16-Mar-13,DRY,29.865,12.871,18.714
+471,Open land,17-Mar-13,DRY,33.313,12.703,19.019
+472,Open land,18-Mar-13,DRY,32.278,12.678,18.967
+473,Open land,19-Mar-13,DRY,32.717,12.171,18.858
+474,Open land,20-Mar-13,DRY,34.071,9.682,17.137
+475,Open land,21-Mar-13,DRY,31.204,9.262,17.419
+476,Open land,22-Mar-13,DRY,32.691,10.663,17.831
+477,Open land,23-Mar-13,DRY,30.748,11.005,18.025
+478,Open land,24-Mar-13,DRY,34.15,10.883,18.267
+479,Open land,25-Mar-13,DRY,31.765,12.001,18.803
+480,Open land,26-Mar-13,DRY,30.9,12.219,18.784
+481,Open land,27-Mar-13,DRY,32.124,12.871,19.836
+482,Open land,28-Mar-13,DRY,33.313,12.775,20.319
+483,Open land,29-Mar-13,DRY,32.562,12.751,20.091
+484,Open land,30-Mar-13,DRY,30.773,14.481,19.456
+485,Open land,31-Mar-13,DRY,30.066,14.146,18.62
+486,Open land,1-Apr-13,DRY,29.54,12.727,18.774
+487,Open land,2-Apr-13,DRY,30.369,13.449,19.566
+488,Open land,3-Apr-13,DRY,31.255,13.281,19.689
+489,Open land,4-Apr-13,DRY,31.281,13.978,20.186
+490,Open land,5-Apr-13,DRY,30.773,15.724,20.683
+491,Open land,6-Apr-13,DRY,30.394,13.497,19.374
+492,Open land,7-Apr-13,DRY,32.433,12.823,19.711
+493,Open land,8-Apr-13,DRY,31.306,13.425,19.709
+494,Open land,9-Apr-13,DRY,31.128,13.642,20.06
+495,Regenerating forest,1-Jun-12,WET,22.968,17.653,19.717
+496,Regenerating forest,2-Jun-12,WET,21.223,17.106,18.882
+497,Regenerating forest,3-Jun-12,WET,23.376,17.51,19.778
+498,Regenerating forest,4-Jun-12,WET,24.605,18.438,20.647
+499,Regenerating forest,5-Jun-12,WET,25.939,16.796,20.211
+500,Regenerating forest,6-Jun-12,WET,25.404,17.272,20.628
+501,Regenerating forest,7-Jun-12,WET,24.871,17.629,20.526
+502,Regenerating forest,8-Jun-12,WET,23.448,18.057,19.676
+503,Regenerating forest,9-Jun-12,WET,21.772,18.105,19.226
+504,Regenerating forest,10-Jun-12,WET,22.25,17.653,19.275
+505,Regenerating forest,11-Jun-12,WET,22.633,18.01,19.925
+506,Regenerating forest,12-Jun-12,WET,22.92,19.341,20.596
+507,Regenerating forest,13-Jun-12,WET,23.497,18.2,19.955
+508,Regenerating forest,14-Jun-12,WET,22.681,17.843,19.777
+509,Regenerating forest,15-Jun-12,WET,23.545,17.796,19.673
+510,Regenerating forest,16-Jun-12,WET,19.912,17.415,18.468
+511,Regenerating forest,17-Jun-12,WET,20.269,17.272,18.633
+512,Regenerating forest,18-Jun-12,WET,22.872,17.534,19.282
+513,Regenerating forest,19-Jun-12,WET,22.202,18.081,19.651
+514,Regenerating forest,20-Jun-12,WET,22.848,17.629,19.167
+515,Regenerating forest,21-Jun-12,WET,20.722,17.534,18.787
+516,Regenerating forest,22-Jun-12,WET,21.366,17.748,19.048
+517,Regenerating forest,23-Jun-12,WET,19.817,17.629,18.394
+518,Regenerating forest,24-Jun-12,WET,21.27,17.034,18.108
+519,Regenerating forest,25-Jun-12,WET,20.174,17.296,18.632
+520,Regenerating forest,26-Jun-12,WET,19.888,17.153,18.268
+521,Regenerating forest,27-Jun-12,WET,21.294,17.058,18.807
+522,Regenerating forest,28-Jun-12,WET,21.39,17.701,19.154
+523,Regenerating forest,29-Jun-12,WET,22.441,17.582,19.053
+524,Regenerating forest,30-Jun-12,WET,22.25,17.296,19.235
+525,Regenerating forest,1-Jul-12,WET,20.555,17.415,18.64
+526,Regenerating forest,2-Jul-12,WET,21.867,17.13,18.69
+527,Regenerating forest,3-Jul-12,WET,22.537,17.772,18.914
+528,Regenerating forest,4-Jul-12,WET,23.28,17.843,19.681
+529,Regenerating forest,5-Jul-12,WET,21.867,17.391,19.454
+530,Regenerating forest,6-Jul-12,WET,21.318,17.272,18.943
+531,Regenerating forest,7-Jul-12,WET,23.448,17.296,19.908
+532,Regenerating forest,8-Jul-12,WET,20.913,18.176,19.064
+533,Regenerating forest,9-Jul-12,WET,21.604,17.439,18.844
+534,Regenerating forest,10-Jul-12,WET,22.369,17.748,19.447
+535,Regenerating forest,11-Jul-12,WET,24.146,18.699,20.224
+536,Regenerating forest,12-Jul-12,WET,23.208,18.461,20.032
+537,Regenerating forest,13-Jul-12,WET,22.513,18.889,19.817
+538,Regenerating forest,14-Jul-12,WET,19.151,17.534,18.394
+539,Regenerating forest,15-Jul-12,WET,20.627,17.51,18.737
+540,Regenerating forest,16-Jul-12,WET,19.698,17.891,18.569
+541,Regenerating forest,17-Jul-12,WET,18.105,17.106,17.57
+542,Regenerating forest,18-Jul-12,WET,18.557,17.225,17.742
+543,Regenerating forest,19-Jul-12,WET,18.533,17.439,17.901
+544,Regenerating forest,20-Jul-12,WET,21.032,17.605,18.701
+545,Regenerating forest,21-Jul-12,WET,22.034,17.32,19.087
+546,Regenerating forest,22-Jul-12,WET,19.603,17.391,18.418
+547,Regenerating forest,23-Jul-12,WET,18.343,17.629,17.837
+548,Regenerating forest,24-Jul-12,WET,20.936,17.653,18.915
+549,Regenerating forest,25-Jul-12,WET,20.222,18.057,18.891
+550,Regenerating forest,26-Jul-12,WET,18.366,16.677,17.227
+551,Regenerating forest,27-Jul-12,WET,17.796,16.153,16.78
+552,Regenerating forest,28-Jul-12,WET,19.151,16.725,17.842
+553,Regenerating forest,29-Jul-12,WET,21.748,18.01,19.036
+554,Regenerating forest,30-Jul-12,WET,21.342,17.463,18.977
+555,Regenerating forest,31-Jul-12,WET,18.889,17.225,18.086
+556,Regenerating forest,1-Aug-12,WET,20.865,17.51,18.522
+557,Regenerating forest,2-Aug-12,WET,19.698,17.058,18.064
+558,Regenerating forest,3-Aug-12,WET,19.151,16.963,17.951
+559,Regenerating forest,4-Aug-12,WET,21.008,17.011,18.307
+560,Regenerating forest,5-Aug-12,WET,22.92,17.249,19.293
+561,Regenerating forest,6-Aug-12,WET,21.748,18.2,19.41
+562,Regenerating forest,7-Aug-12,WET,21.509,17.748,18.958
+563,Regenerating forest,8-Aug-12,WET,21.987,16.415,18.938
+564,Regenerating forest,9-Aug-12,WET,21.103,17.748,18.726
+565,Regenerating forest,10-Aug-12,WET,21.963,16.392,18.834
+566,Regenerating forest,11-Aug-12,WET,23.978,17.011,19.103
+567,Regenerating forest,12-Aug-12,WET,23.497,17.558,19.846
+568,Regenerating forest,13-Aug-12,WET,23.472,18.366,19.728
+569,Regenerating forest,14-Aug-12,WET,20.055,17.605,18.768
+570,Regenerating forest,15-Aug-12,WET,19.841,17.582,18.501
+571,Regenerating forest,16-Aug-12,WET,21.27,17.463,18.946
+572,Regenerating forest,17-Aug-12,WET,22.8,16.725,19.387
+573,Regenerating forest,18-Aug-12,WET,19.888,16.582,18.134
+574,Regenerating forest,19-Aug-12,WET,18.461,17.034,17.701
+575,Regenerating forest,20-Aug-12,WET,19.532,16.939,17.997
+576,Regenerating forest,21-Aug-12,WET,20.889,16.32,18.51
+577,Regenerating forest,22-Aug-12,WET,18.842,16.63,17.804
+578,Regenerating forest,23-Aug-12,WET,21.079,16.749,18.376
+579,Regenerating forest,24-Aug-12,WET,20.722,15.986,18.057
+580,Regenerating forest,25-Aug-12,WET,20.722,15.843,17.832
+581,Regenerating forest,26-Aug-12,WET,21.461,16.058,18.378
+582,Regenerating forest,27-Aug-12,WET,22.274,16.225,18.744
+583,Regenerating forest,28-Aug-12,WET,22.465,16.225,18.785
+584,Regenerating forest,29-Aug-12,WET,22.8,16.534,19.312
+585,Regenerating forest,30-Aug-12,WET,23.136,17.344,19.492
+586,Regenerating forest,31-Aug-12,WET,23.472,18.438,19.962
+587,Regenerating forest,1-Feb-13,DRY,18.081,10.663,13.88
+588,Regenerating forest,2-Feb-13,DRY,18.224,12.847,14.654
+589,Regenerating forest,3-Feb-13,DRY,17.796,12.122,14.029
+590,Regenerating forest,4-Feb-13,DRY,20.007,13.473,15.556
+591,Regenerating forest,5-Feb-13,DRY,21.939,13.137,15.985
+592,Regenerating forest,6-Feb-13,DRY,21.437,12.823,16.36
+593,Regenerating forest,7-Feb-13,DRY,22.321,13.401,16.912
+594,Regenerating forest,8-Feb-13,DRY,22.585,14.792,17.686
+595,Regenerating forest,9-Feb-13,DRY,22.729,15.461,18.196
+596,Regenerating forest,10-Feb-13,DRY,23.954,16.153,18.787
+597,Regenerating forest,11-Feb-13,DRY,24.026,17.344,19.351
+598,Regenerating forest,12-Feb-13,DRY,23.545,16.868,19.026
+599,Regenerating forest,13-Feb-13,DRY,24.074,17.796,19.876
+600,Regenerating forest,14-Feb-13,DRY,22.92,15.127,18.631
+601,Regenerating forest,15-Feb-13,DRY,23.328,16.701,19.38
+602,Regenerating forest,16-Feb-13,DRY,25.186,17.701,20.136
+603,Regenerating forest,17-Feb-13,DRY,24.726,18.129,20.385
+604,Regenerating forest,18-Feb-13,DRY,25.113,17.724,19.91
+605,Regenerating forest,19-Feb-13,DRY,25.016,15.27,18.463
+606,Regenerating forest,20-Feb-13,DRY,24.871,16.773,19.316
+607,Regenerating forest,21-Feb-13,DRY,26.818,17.153,20.075
+608,Regenerating forest,22-Feb-13,DRY,23.064,17.391,19.122
+609,Regenerating forest,23-Feb-13,DRY,21.939,16.392,18.002
+610,Regenerating forest,24-Feb-13,DRY,24.726,14.457,18.088
+611,Regenerating forest,25-Feb-13,DRY,25.04,16.915,19.635
+612,Regenerating forest,26-Feb-13,DRY,25.55,16.606,19.721
+613,Regenerating forest,27-Feb-13,DRY,25.598,16.987,19.902
+614,Regenerating forest,28-Feb-13,DRY,25.744,15.796,19.624
+615,Regenerating forest,1-Mar-13,DRY,26.158,17.13,20.24
+616,Regenerating forest,2-Mar-13,DRY,24.968,17.701,20.511
+617,Regenerating forest,3-Mar-13,DRY,22.537,18.105,19.856
+618,Regenerating forest,4-Mar-13,DRY,18.247,15.39,17.069
+619,Regenerating forest,5-Mar-13,DRY,20.007,14.649,16.073
+620,Regenerating forest,6-Mar-13,DRY,22.369,15.055,17.677
+621,Regenerating forest,7-Mar-13,DRY,22.345,15.414,17.738
+622,Regenerating forest,8-Mar-13,DRY,19.365,14.529,17.118
+623,Regenerating forest,9-Mar-13,DRY,21.987,12.582,16.158
+624,Regenerating forest,10-Mar-13,DRY,23.689,14.745,17.923
+625,Regenerating forest,11-Mar-13,DRY,23.833,15.247,18.461
+626,Regenerating forest,12-Mar-13,DRY,24.002,15.27,18.358
+627,Regenerating forest,13-Mar-13,DRY,24.412,14.242,18.202
+628,Regenerating forest,14-Mar-13,DRY,25.283,16.034,19.349
+629,Regenerating forest,15-Mar-13,DRY,25.55,17.272,20.184
+630,Regenerating forest,16-Mar-13,DRY,26.793,17.772,20.922
+631,Regenerating forest,17-Mar-13,DRY,29.14,16.844,20.865
+632,Regenerating forest,18-Mar-13,DRY,27.776,18.2,21.207
+633,Regenerating forest,19-Mar-13,DRY,26.475,16.225,20.115
+634,Regenerating forest,20-Mar-13,DRY,26.916,14.673,19.394
+635,Regenerating forest,21-Mar-13,DRY,26.28,16.129,19.638
+636,Regenerating forest,22-Mar-13,DRY,26.916,16.606,20.115
+637,Regenerating forest,23-Mar-13,DRY,25.55,16.439,20.039
+638,Regenerating forest,24-Mar-13,DRY,27.751,15.963,20.365
+639,Regenerating forest,25-Mar-13,DRY,26.671,16.963,20.633
+640,Regenerating forest,26-Mar-13,DRY,27.038,18.152,21.194
+641,Regenerating forest,27-Mar-13,DRY,27.579,18.033,21.49
+642,Regenerating forest,28-Mar-13,DRY,29.19,18.485,22.32
+643,Regenerating forest,29-Mar-13,DRY,28.543,19.008,22.407
+644,Regenerating forest,30-Mar-13,DRY,28.493,19.841,22.46
+645,Regenerating forest,31-Mar-13,DRY,26.573,19.008,21.786
+646,Regenerating forest,1-Apr-13,DRY,26.207,18.961,21.479
+647,Regenerating forest,2-Apr-13,DRY,28.444,17.439,21.581
+648,Regenerating forest,3-Apr-13,DRY,28.493,18.224,22.187
+649,Regenerating forest,4-Apr-13,DRY,29.389,18.366,22.338
+650,Regenerating forest,5-Apr-13,DRY,27.998,19.722,22.439
+651,Regenerating forest,6-Apr-13,DRY,27.776,17.962,21.752
+652,Regenerating forest,7-Apr-13,DRY,29.19,18.58,22.284
+653,Regenerating forest,8-Apr-13,DRY,28.916,18.271,22.301
+654,Regenerating forest,9-Apr-13,DRY,29.14,19.08,22.871
+655,Regenerating forest,10-Apr-13,DRY,25.817,17.463,21.606
+656,Regenerating forest,11-Apr-13,DRY,27.063,19.793,22.113
+657,Regenerating forest,12-Apr-13,DRY,28.99,19.722,23.177
+658,Regenerating forest,13-Apr-13,DRY,29.04,19.175,22.315
+659,Regenerating forest,14-Apr-13,DRY,26.549,18.152,21.121
+660,Regenerating forest,15-Apr-13,DRY,28.345,17.843,21.782
+661,Regenerating forest,16-Apr-13,DRY,26.134,16.415,19.435
+662,Regenerating forest,17-Apr-13,DRY,25.793,15.819,19.827
+663,Regenerating forest,18-Apr-13,DRY,27.431,18.01,21.562
+664,Regenerating forest,19-Apr-13,DRY,29.439,18.913,22.309
+665,Regenerating forest,20-Apr-13,DRY,30.748,19.032,23.222
+666,Regenerating forest,21-Apr-13,DRY,29.265,20.793,23.735
+667,Regenerating forest,22-Apr-13,DRY,28.493,18.271,22.639
+668,Regenerating forest,23-Apr-13,DRY,29.865,18.319,22.53
+669,Regenerating forest,24-Apr-13,DRY,27.702,18.675,21.97
+670,Regenerating forest,25-Apr-13,DRY,30.722,19.746,23.056
+671,Regenerating forest,26-Apr-13,DRY,25.963,17.296,20.621
+672,Regenerating forest,27-Apr-13,DRY,28.742,18.771,22.413
+673,Regenerating forest,28-Apr-13,DRY,27.751,17.082,20.671
+674,Regenerating forest,29-Apr-13,DRY,26.744,15.676,19.969
+675,Regenerating forest,30-Apr-13,DRY,29.165,19.413,22.633
