@@ -1,5 +1,4 @@
 # Mengsong-wood-decompo-FEM
-Read me file
 These are the files that contain data used to analyze and to reproduce Dossa et al manuscript if Forest Ecology and Management. These are from an over 3 years wood decomposition experiment across a tropical forest disturbance landscape in Mengsong, SW, China. 
 These are in total 8 files.
 1	Mengsong_field_data_FEM.csv which is the main file and consists of data collected from the two native species logs used in the experiment. 
